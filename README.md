@@ -42,7 +42,7 @@
       <br>Pycharm
     </td>
     <td align="center" width="96">
-      <i class="devicon-latex-original"></i>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
       <br>LaTeX
     </td>
   </tr>
