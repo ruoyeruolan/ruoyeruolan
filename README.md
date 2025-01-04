@@ -37,11 +37,13 @@
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br>Vue
     </td>
+    <td align="center" width="96">
+        <img src="https://icons8.com/icon/117121/pycharm" width="48" height="48" alt="pycharm" />
+      <br>Pycharm
+    </td>
   </tr>
 </table>
 <br><br>
-
-
 </div>
 <!--
 **ruoyeruolan/ruoyeruolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
