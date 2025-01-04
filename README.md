@@ -50,13 +50,14 @@
       <br>Django
   </tr>
 </table>
-
-</td><td valign="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruoyeruolan&hide_border=true&layout=compact" align="center" style="width: 480px;" />
-</td><td valign="center">
 <br><br>
 </div>
 
+</td><td valign="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruoyeruolan&hide_border=true&layout=compact" align="left" style="width: 480px;" />
+</td><td valign="left">
+
+[![My Skills](https://skillicons.dev/icons?i=github,pycharm,pytorch,r,blender,aws,gcp,azure,react,vue,flutter&perline=8)](https://skillicons.dev)
 
 <br></br>
 ## Languages and Tools  
