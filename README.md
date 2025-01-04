@@ -35,8 +35,6 @@
       <img src="https://skillicons.dev/icons?i=latex" width="65" height="65" alt="LaTeX" />
       <br>LaTeX
     </td>
-<!--   </tr> -->
-<!--   <tr> -->
     <td align="center" width="96">
 <!--         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /> -->
       <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="Github" />
@@ -58,6 +56,15 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="65" height="65" alt="Kaggle" />
+      <br>Kaggle
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="65" height="65" alt="Vim" />
+      <br>Vim
+    </td>
+  </tr>
 </table>
 <br><br>
 </div>
@@ -66,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruoyeruolan&hide_border=true&layout=compact" align="left" style="width: 480px;" />
 </td><td valign="left">
 
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,pytorch,go,rust,r,md,blender,vue,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,pytorch,go,rust,r,md,anaconda,ubuntu,gmail,gcp,blender,vue,&perline=6)](https://skillicons.dev)
 
 <br></br>
 <!-- ## Languages and Tools  -->
