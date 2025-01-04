@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm ruoyeruolan (ryr_)
 
 # My favorite tools and technologies
-<div style="display: flex; align-items: flex-start; align: left">
-<table align="center">
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="left">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -50,11 +50,15 @@
       <br>Django
   </tr>
 </table>
+
+</td><td valign="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruoyeruolan&hide_border=true&layout=compact" align="center" style="width: 480px;" />
+</td><td valign="center">
 <br><br>
 </div>
 
 
-
+<br></br>
 ## Languages and Tools  
 <div align="center">
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
