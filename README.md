@@ -33,8 +33,8 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="Pycharm" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" alt="Pycharm" />
       <br>Pycharm
     </td>
     <td align="center" width="96">
