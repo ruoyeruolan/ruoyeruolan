@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm ruoyeruolan (ryr_)
 
 # My favorite tools and technologies
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; align: left">
 <table align="center">
   <tr>
     <td align="center" width="96">
