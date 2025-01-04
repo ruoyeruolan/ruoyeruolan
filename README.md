@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruoyeruolan&hide_border=true&layout=compact" align="left" style="width: 480px;" />
 </td><td valign="left">
 
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,pytorch,go,rust,r,md,anaconda,ubuntu,gmail,gcp,blender,vue,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,pytorch,go,rust,r,bash,linux,ubuntu,md,gmail,gcp,blender,vue,&perline=6)](https://skillicons.dev)
 
 <br></br>
 <!-- ## Languages and Tools  -->
