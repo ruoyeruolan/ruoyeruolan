@@ -1,7 +1,4 @@
-### <div align="center">Hi there 👋. I'm ruoyeruolan, a part-time freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
-  
-
-- 🔭 I’m currently working on Graph Neural Networks for Causal Inference (https://github.com/ryrl9703/GraphCausal)  
+### <div align="center">Hi there 👋. I'm ruoyeruolan, a part-time freelance developer 👨‍💻 working remotely since 2020 🚀</div> 
   
 
 - 🌱 I’m currently learning Golang and Rust.  
