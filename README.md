@@ -1,5 +1,20 @@
 ## Hi there 👋 I'm ruoyeruolan (ryr_)
 
+
+### <div align="center">I'm ruoyeruolan, a part-time freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+  
+
+- 🔭 I’m currently working on Graph Neural Networks for Causal Inference (https://github.com/ryrl9703/GraphCausal)  
+  
+
+- 🌱 I’m currently learning Golang and Rust.  
+  
+
+- ❓ Ask me about anything related to GNN  and Causal Inference or related technologies  
+  
+
+<br/>  
+
 # My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="left">
