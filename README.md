@@ -8,9 +8,6 @@
   
 
 - ❓ Ask me about anything related to GNN  and Causal Inference or related technologies  
-  
-
-<br/>  
 
 # My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
