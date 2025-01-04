@@ -38,7 +38,7 @@
       <br>Vue
     </td>
     <td align="center" width="96">
-        <img src="https://icons8.com/icon/117121/pycharm" width="48" height="48" alt="pycharm" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
       <br>Pycharm
     </td>
   </tr>
