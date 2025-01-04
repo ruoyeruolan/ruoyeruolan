@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm ruoyeruolan (ryr_)
 
-[![](https://github.com/ishandutta2007/ishandutta2007/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
 
 <!--
 **ruoyeruolan/ruoyeruolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
