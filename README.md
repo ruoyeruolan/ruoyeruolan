@@ -38,7 +38,7 @@
       <br>Pycharm
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" />
       <br>LaTeX
     </td>
     <td align="center" width="96">
