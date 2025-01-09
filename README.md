@@ -1,10 +1,10 @@
 ### <div align="center">Hi there 👋. I’m ruoyeruolan, a master’s student at [Suzhou University](http://eng.suda.edu.cn/) with expertise in omics data analysis, particularly scRNA-seq. </div> 
   
 
-- 🌱 I’m currently learning Golang and Rust.  
+<!-- - 🌱 I’m currently learning Golang and Rust. -->
   
 
-- ❓ Ask me about anything related to GNN  and Causal Inference or related technologies  
+<!-- ❓ Ask me about anything related to GNN  and Causal Inference or related technologies  -->
 
 # My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
