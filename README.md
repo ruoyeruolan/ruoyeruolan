@@ -55,8 +55,8 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Go" />
-      <br>Go
+      <img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="Go" />
+      <br>Rust
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="65" height="65" alt="Kaggle" />
       <br>Kaggle
@@ -73,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruoyeruolan&hide_border=true&layout=compact" align="left" style="width: 480px;" />
 </td><td valign="left">
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,rust,r,perl,sqlite,bash,linux,ubuntu,md,neovim,notion,gmail,gcp,blender,webstorm,vue,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,r,perl,go,sqlite,bash,linux,ubuntu,md,neovim,notion,gmail,gcp,blender,webstorm,vue,&perline=6)](https://skillicons.dev)
 
 <br></br>
 <!-- ## Languages and Tools  -->
