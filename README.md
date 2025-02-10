@@ -1,4 +1,4 @@
-### <div align="center">Hi there 👋. I’m ruoyeruolan, a master’s student at [Suzhou University](http://eng.suda.edu.cn/) with expertise in omics data analysis, particularly scRNA-seq. </div> 
+### <div align="center">Hi there 👋. I’m ruoyeruolan </div> 
   
 
 <!-- - 🌱 I’m currently learning Golang and Rust. -->
